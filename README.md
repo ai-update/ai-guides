@@ -1,2 +1,14 @@
 # ai-guides
-A collection of guides on artificial intelligence technology.
+
+A collection of curated & selfmade guides on artificial intelligence technology.
+
+https://casvanvliet.substack.com
+
+## Table of Contents
+
+1. a
+2. b
+3. c
+
+## General
+## Corporate
