@@ -1,8 +1,8 @@
-# ai-guides
+# Artificial Intelligence Guides
 
-A collection of curated & selfmade guides on artificial intelligence technology.
+A collection of *curated & selfmade guides* on artificial intelligence technology.
 
-https://casvanvliet.substack.com
+🌐 https://casvanvliet.substack.com
 
 ## Table of Content
 
@@ -11,5 +11,5 @@ https://casvanvliet.substack.com
 3. c
    
 # Guides:
-## General
-## Corporate
+## 🖥️ General
+## 👔 Corporate
