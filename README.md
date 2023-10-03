@@ -8,9 +8,14 @@ Curated by:
 
 ## Table of Content
 
-1. 
-2. 
-3. 
+- 👩🏻‍💻 General
+- 👔 Corporate
+- 🔎 Research
+- 🖳 Programming
+- 🗣️ Languages
+- 📱 Social Media
+- ✍️ Writing
+- 👙 Vacation
    
 # Guides:
 ## 👩🏻‍💻 General
