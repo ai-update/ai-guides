@@ -1,4 +1,4 @@
-# Artificial Intelligence Guides
+# 📃 Artificial Intelligence Guides
 
 A collection of guides on artificial intelligence technology.
 
