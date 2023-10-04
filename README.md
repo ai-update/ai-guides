@@ -15,8 +15,6 @@ Curated by:
 ## 📄 Articles
 
 ### General
-
-**Cas van Vliet**
 > 🌐 https://casvanvliet.substack.com
 
 ## 🖥️ YouTube
