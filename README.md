@@ -18,5 +18,8 @@ Curated by:
 - 👙 Vacation
    
 # 📃 Guides:
-## 📄 Text
+## 📄 Articles
+### [placeholder]
+
+## 🖥️ YouTube
 ### [placeholder]
