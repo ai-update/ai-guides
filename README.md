@@ -17,7 +17,7 @@ Curated by:
 - ✍️ Writing
 - 👙 Vacation
    
-# Guides:
+# 📃 Guides:
 ## 👩🏻‍💻 General
 ## 👔 Corporate
 ## 🔎 Research
