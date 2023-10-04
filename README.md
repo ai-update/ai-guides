@@ -1,6 +1,6 @@
 # 📃 Artificial Intelligence Guides
 
-A collection of guides on artificial intelligence technology.
+A collection of guides on artificial intelligence technology and applications.
 
 Curated by:
 
@@ -18,4 +18,5 @@ Curated by:
 > 🌐 https://casvanvliet.substack.com
 
 ## 🖥️ YouTube
-### [placeholder]
+### Sentdex
+> 🌐 https://www.youtube.com/@sentdex
