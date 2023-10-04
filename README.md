@@ -13,7 +13,9 @@ Curated by:
    
 # 🧑‍🏫 Guides:
 ## 📄 Articles
-#### Substack:
+
+### General
+
 **Cas van Vliet**
 > 🌐 https://casvanvliet.substack.com
 
