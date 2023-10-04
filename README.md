@@ -20,7 +20,7 @@ Curated by:
 ## 🖥️ YouTube
 ### General
 > 🌐 https://www.youtube.com/@NetworkChuck
-> 🌐 https://www.youtube.com/@sentdex
+>> 🌐 https://www.youtube.com/@sentdex
 
 ### Excel
 > https://www.youtube.com/@LeilaGharani
