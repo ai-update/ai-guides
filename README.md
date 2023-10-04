@@ -8,14 +8,8 @@ Curated by:
 
 ## Table of Contents
 
-- 👩🏻‍💻 General
-- 👔 Corporate
-- 🔎 Research
-- 🖳 Programming
-- 🗣️ Languages
-- 📱 Social Media
-- ✍️ Writing
-- 👙 Vacation
+- 📄 Articles
+- 🖥️ YouTube
    
 # 📃 Guides:
 ## 📄 Articles
