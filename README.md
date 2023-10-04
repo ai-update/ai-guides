@@ -18,11 +18,5 @@ Curated by:
 - 👙 Vacation
    
 # 📃 Guides:
-## 👩🏻‍💻 General
-## 👔 Corporate
-## 🔎 Research
-## 🖳 Programming
-## 🗣️ Languages
-## 📱 Social Media
-## ✍️ Writing
-## 👙 Vacation
+## 📄 Text
+### [placeholder]
