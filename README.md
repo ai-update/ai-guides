@@ -18,5 +18,9 @@ Curated by:
 > 🌐 https://casvanvliet.substack.com
 
 ## 🖥️ YouTube
-### Sentdex
+### General
 > 🌐 https://www.youtube.com/@sentdex
+
+### Excel
+> https://www.youtube.com/watch?v=21bXQDXSxYs&pp=ygUTY2hhdGdwdCBleGNlbCBsZWlsYQ%3D%3D
+> https://www.youtube.com/watch?v=kQPUWryXwag&pp=ygUTY2hhdGdwdCBleGNlbCBsZWlsYQ%3D%3D
