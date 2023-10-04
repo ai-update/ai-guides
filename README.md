@@ -26,4 +26,4 @@ Curated by:
 > 🌐 https://www.youtube.com/@sentdex
 
 ### Excel
-> https://www.youtube.com/@LeilaGharani
+> 🌐 https://www.youtube.com/@LeilaGharani
