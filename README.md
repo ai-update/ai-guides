@@ -19,6 +19,7 @@ Curated by:
 
 ## 🖥️ YouTube
 ### General
+> 🌐 https://www.youtube.com/@NetworkChuck
 > 🌐 https://www.youtube.com/@sentdex
 
 ### Excel
