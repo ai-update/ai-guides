@@ -11,10 +11,10 @@ Curated by:
 - 📄 Articles
 - 🖥️ YouTube
    
-# 📃 Guides:
+# 🧑‍🏫 Guides:
 ## 📄 Articles
-### Substack:
-#### Cas van Vliet
+#### Substack:
+**Cas van Vliet**
 > 🌐 https://casvanvliet.substack.com
 
 ## 🖥️ YouTube
