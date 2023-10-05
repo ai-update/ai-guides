@@ -19,9 +19,12 @@ Curated by:
 
 ## 🖥️ YouTube
 ### General
+**Network Chuck**
 > 🌐 https://www.youtube.com/@NetworkChuck
 
+**Sentdex**
 > 🌐 https://www.youtube.com/@sentdex
 
 ### Excel
+**Leila Gharani**
 > 🌐 https://www.youtube.com/@LeilaGharani
