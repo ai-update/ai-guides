@@ -12,11 +12,11 @@
 # Guides:
 ## Articles
 
-### ⚙️ General
+### General
 📄 [**Cas van Vliet**](https://casvanvliet.substack.com)
 
 ## 🖥️ YouTube
-### ⚙️ General
+### General
 🖥️ [**Network Chuck**](https://www.youtube.com/@NetworkChuck)
 
 *"I LOVE Information Technology!! My goal is to help as MANY PEOPLE AS POSSIBLE jump into a career in the IT field through obtaining IT Certifications."*
