@@ -8,33 +8,26 @@ Curated by:
 
 ## Table of Contents
 
-- 📄 Articles
-- 🖥️ YouTube
-   
+- 📄 [Articles](#articles)
+- 🖥️ [YouTube](#youtube)
+
 # 🧑‍🏫 Guides:
 ## 📄 Articles
 
 ### ⚙️ General
-**Cas van Vliet**
-> 🌐 https://casvanvliet.substack.com
+[**Cas van Vliet**](https://casvanvliet.substack.com)
 
 ## 🖥️ YouTube
 ### ⚙️ General
-**Network Chuck**
+[**Network Chuck**](https://www.youtube.com/@NetworkChuck)
 
 *"I LOVE Information Technology!! My goal is to help as MANY PEOPLE AS POSSIBLE jump into a career in the IT field through obtaining IT Certifications."*
 
-> 🌐 https://www.youtube.com/@NetworkChuck
-
-**The AI Advantage**
+[**The AI Advantage**](https://www.youtube.com/@aiadvantage)
 
 *"Let's unlock your AI superpowers by exploring some possibilities!"* 
 
-> 🌐 https://www.youtube.com/@aiadvantage
-
 ### 📊 Excel
-**Leila Gharani**
+[**Leila Gharani**](https://www.youtube.com/@LeilaGharani)
 
 *"My goal is to help you save time at work, so you can spend it on activities that matter."* 
-
-> 🌐 https://www.youtube.com/@LeilaGharani
