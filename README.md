@@ -19,7 +19,7 @@ Curated by:
 > 🌐 https://casvanvliet.substack.com
 
 ## 🖥️ YouTube
-### General
+### ⚙️ General
 **Network Chuck**
 
 *"I LOVE Information Technology!! My goal is to help as MANY PEOPLE AS POSSIBLE jump into a career in the IT field through obtaining IT Certifications."*
@@ -32,7 +32,7 @@ Curated by:
 
 > 🌐 https://www.youtube.com/@aiadvantage
 
-### Excel
+### 📊 Excel
 **Leila Gharani**
 
 *"My goal is to help you save time at work, so you can spend it on activities that matter."* 
