@@ -14,7 +14,7 @@ Curated by:
 # 🧑‍🏫 Guides:
 ## 📄 Articles
 
-### General
+### ⚙️ General
 **Cas van Vliet**
 > 🌐 https://casvanvliet.substack.com
 
