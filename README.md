@@ -23,6 +23,9 @@ Curated by:
 **Network Chuck**
 > 🌐 https://www.youtube.com/@NetworkChuck
 
+**The AI Advantage**
+> 🌐 https://www.youtube.com/@aiadvantage
+
 ### Excel
 **Leila Gharani**
 > 🌐 https://www.youtube.com/@LeilaGharani
