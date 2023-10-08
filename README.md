@@ -1,8 +1,10 @@
 # Artificial Intelligence Guides
 
-A collection of guides on artificial intelligence technology and applications.
+ℹ️ A collection of guides on artificial intelligence technology and applications.
 
-Curated by [Cas van Vliet](https://casvanvliet.substack.com).
+🛠️ Need a custom guide? [Get in touch](mailto:workcommunication@duck.com).
+
+👀 Curated by [Cas van Vliet](https://casvanvliet.substack.com).
 
 ## Table of Contents
 
