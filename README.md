@@ -15,7 +15,7 @@ Curated by [Cas van Vliet](https://casvanvliet.substack.com).
 ### General
 📄 [**Cas van Vliet**](https://casvanvliet.substack.com)
 
-## 🖥️ YouTube
+## YouTube
 ### General
 🖥️ [**Network Chuck**](https://www.youtube.com/@NetworkChuck)
 
