@@ -1,15 +1,18 @@
 # Artificial Intelligence Guides
 
-ℹ️ A collection of guides on artificial intelligence technology and applications.
+ℹ️ A collection of **guides** on **A.I.**
 
-🛠️ Need a custom guide? [Get in touch](mailto:workcommunication@duck.com).
-
-👀 Curated by [Cas van Vliet](https://casvanvliet.substack.com).
+👀 Curated by [**Cas van Vliet**](https://casvanvliet.substack.com).
 
 ## Table of Contents
 
 - 📄 [Articles](#articles)
 - 🖥️ [YouTube](#youtube)
+
+## More guides:
+
+### 🛠️ [**Buy a Custom Guide**](mailto:workcommunication@duck.com).
+> 💲 Starting from **9.99**!
 
 # Guides:
 ## Articles
