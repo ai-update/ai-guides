@@ -1,13 +1,11 @@
 # Artificial Intelligence Guides
 
-ℹ️ A collection of **guides** on **A.I.**
-
-👀 Curated by [**Cas van Vliet**](https://casvanvliet.substack.com).
+![image](https://github.com/cas-van-vliet/ai-guides/assets/146363448/f10ee245-87b5-41ad-9ef1-384613307197)
 
 ## Table of Contents
 
-- 📄 [Articles](#articles)
-- 🖥️ [YouTube](#youtube)
+- 📄 **[Articles](#articles)**
+- 🖥️ **[YouTube](#youtube)**
 
 ## More guides:
 
@@ -15,18 +13,18 @@
 > 💲 **9.99+**
 
 # Guides:
-## Articles
+## Articles:
 
-### General
+### General:
 📄 [**Cas van Vliet**](https://casvanvliet.substack.com)
 
 ## YouTube
-### General
+### General:
 🖥️ [**Network Chuck**](https://www.youtube.com/@NetworkChuck)
 
 🖥️ [**The AI Advantage**](https://www.youtube.com/@aiadvantage)
 
 🖥️ [**Theoretically Media**](https://www.youtube.com/@TheoreticallyMedia)
 
-### Excel
+### Excel:
 📊 [**Leila Gharani**](https://www.youtube.com/@LeilaGharani)
