@@ -26,5 +26,7 @@
 
 🖥️ [**The AI Advantage**](https://www.youtube.com/@aiadvantage)
 
+🖥️ [**Theoretically Media**](https://www.youtube.com/@TheoreticallyMedia)
+
 ### Excel
 📊 [**Leila Gharani**](https://www.youtube.com/@LeilaGharani)
