@@ -20,7 +20,7 @@
 
 📄 [**Cas van Vliet**](https://casvanvliet.substack.com)
 
-> ✅ ['How to Make Images with Bing Chat'](https://casvanvliet.substack.com/how-to-make-images-with-bing-chat)
+> ✅ _['How to Make Images with Bing Chat'](https://casvanvliet.substack.com/how-to-make-images-with-bing-chat)_ | [Cas van Vliet](https://casvanvliet.substack.com)
 
 ## YouTube
 
