@@ -1,7 +1,5 @@
 # Artificial Intelligence Guides
 
-![image](https://github.com/cas-van-vliet/ai-guides/assets/146363448/312d9849-9b9c-439c-8539-04d9eb2462e1)
-
 ## Table of Contents
 
 - 📄 **[Articles](#articles)**
