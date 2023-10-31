@@ -24,7 +24,7 @@
 
 ## YouTube
 
-_Here is a playlist with every YouTube video listed below_
+_[Here is a playlist with every YouTube video listed below](https://www.youtube.com/watch?v=JJCq21Dc-Us&list=PL6_lAa0Kukq7Ysu2pxgItijm8fQjxqqoX&pp=gAQBiAQB)_
 
 ### General:
 
