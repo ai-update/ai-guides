@@ -24,6 +24,8 @@
 
 ## YouTube
 
+_Here is a playlist with every YouTube video listed below_
+
 ### General:
 
 #### 🖥️ [Cleo Abram](https://www.youtube.com/@CleoAbram)
