@@ -24,7 +24,7 @@
 
 ## YouTube
 
-_[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=JJCq21Dc-Us&list=PL6_lAa0Kukq7Ysu2pxgItijm8fQjxqqoX&pp=gAQBiAQB) with Guides on AI._
+▶️ _[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=JJCq21Dc-Us&list=PL6_lAa0Kukq7Ysu2pxgItijm8fQjxqqoX&pp=gAQBiAQB) with Guides on AI._
 
 ### General:
 
