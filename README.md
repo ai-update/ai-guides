@@ -49,3 +49,5 @@ _[Here is a playlist with every YouTube video listed below](https://www.youtube.
 #### 🖥️ [**Leila Gharani**](https://www.youtube.com/@LeilaGharani)
 
 > ✅ _['Bring ChatGPT INSIDE Excel to Solve ANY Problem Lightning FAST'](https://www.youtube.com/watch?v=kQPUWryXwag&pp=ygUbbGVpbGEgZ2hhcmFuaSBjaGF0Z3B0IGV4Y2Vs)_ | [Leila Gharani](https://www.youtube.com/@LeilaGharani)
+
+![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/19f7dc8e-23c1-4160-b6d8-304ab0aaaa5f)
