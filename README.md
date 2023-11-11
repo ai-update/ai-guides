@@ -16,13 +16,11 @@
 
 ## Articles:
 
-### General:
-
 [**Cas van Vliet**](https://casvanvliet.substack.com)
 
 📄 _['How to Make Images with Bing Chat'](https://casvanvliet.substack.com/how-to-make-images-with-bing-chat)_ | [Cas van Vliet](https://casvanvliet.substack.com)
 
-### YouTube
+## YouTube
 
 #### [Cleo Abram](https://www.youtube.com/@CleoAbram)
 
