@@ -22,7 +22,7 @@
 
 📄 _['How to Make Images with Bing Chat'](https://casvanvliet.substack.com/how-to-make-images-with-bing-chat)_ | [Cas van Vliet](https://casvanvliet.substack.com)
 
-### General:
+### YouTube
 
 #### [Cleo Abram](https://www.youtube.com/@CleoAbram)
 
@@ -39,8 +39,6 @@
 #### [**Theoretically Media**](https://www.youtube.com/@TheoreticallyMedia)
 
 🖥️ _['Your Face In Midjourney! It's Here, Easy, and It Works!'](https://www.youtube.com/watch?v=PPQl6qEr5Es)_ | [Theoretically Media](https://www.youtube.com/@theoreticallymedia)
-
-### Excel:
 
 #### [**Leila Gharani**](https://www.youtube.com/@LeilaGharani)
 
