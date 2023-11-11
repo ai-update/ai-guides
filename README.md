@@ -12,7 +12,7 @@
 🛠️ [**Buy a Custom Guide**](mailto:workcommunication@duck.com)
 > 💲 **9.99+**
 
-# Guides:
+# Guides
 
 ## Articles:
 
@@ -20,7 +20,7 @@
 
 📄 _['How to Make Images with Bing Chat'](https://casvanvliet.substack.com/how-to-make-images-with-bing-chat)_ | [Cas van Vliet](https://casvanvliet.substack.com)
 
-## YouTube
+## YouTube:
 
 #### [Cleo Abram](https://www.youtube.com/@CleoAbram)
 
