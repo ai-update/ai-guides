@@ -9,7 +9,7 @@
 
 ## More guides:
 
-### 🛠️ [**Buy a Custom Guide**](mailto:workcommunication@duck.com)
+🛠️ [**Buy a Custom Guide**](mailto:workcommunication@duck.com)
 > 💲 **9.99+**
 
 # Guides:
