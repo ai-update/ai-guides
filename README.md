@@ -30,7 +30,7 @@
 
 #### [**Network Chuck**](https://www.youtube.com/@NetworkChuck)
 
-> 🖥️ _['learning AI and ChatGPT isn’t that hard'](https://www.youtube.com/watch?v=JJCq21Dc-Us)_ | [Network Chuck](https://www.youtube.com/@NetworkCHuck)
+🖥️ _['learning AI and ChatGPT isn’t that hard'](https://www.youtube.com/watch?v=JJCq21Dc-Us)_ | [Network Chuck](https://www.youtube.com/@NetworkCHuck)
 
 #### [**The AI Advantage**](https://www.youtube.com/@aiadvantage)
 
