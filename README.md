@@ -12,7 +12,7 @@
 🛠️ [**Buy a Custom Guide**](mailto:workcommunication@duck.com)
 > 💲 **9.99+**
 
-# Guides
+# Guides:
 
 ## Articles
 
